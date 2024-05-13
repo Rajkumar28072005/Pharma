@@ -26,6 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -103,6 +104,9 @@ home.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+about.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -179,6 +183,9 @@ home.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+product.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -286,6 +293,9 @@ home.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+contact.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -375,8 +385,8 @@ home.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-```
 
+```
 ## OUTPUT:
 ![Screenshot 2024-05-13 184911](https://github.com/Rajkumar28072005/Pharma/assets/144980101/29632315-807c-4e28-a3f2-037db4af417b)
 
